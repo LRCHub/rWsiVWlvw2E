@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "点描の唄（feat. 井上苑子）",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2026-01-08T11:48:24.809278Z",
+  "createdAt": "2026-02-12T11:21:43.718455Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -11,6 +11,14 @@
       "artist": "Mrs. GREEN APPLE",
       "has_synced": true,
       "path": "select/01_点描の唄_(feat.井上苑子)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "点描の唄 (feat. 井上苑子)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_点描の唄_(feat._井上苑子)_Mrs._GREEN_APPLE.lrc"
     },
     {
       "id": "petitlyrics_1",
