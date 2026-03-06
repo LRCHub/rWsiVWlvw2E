@@ -1,32 +1,32 @@
 {
   "version": 1,
-  "base_track": "点描の唄（feat. 井上苑子）",
+  "base_track": "恋と吟(うた)",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2026-03-03T16:34:20.457023Z",
+  "createdAt": "2026-03-06T16:12:31.165161Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "点描の唄 (feat.井上苑子)",
+      "title": "恋と吟(うた) - Koito Uta",
       "artist": "Mrs. GREEN APPLE",
       "has_synced": true,
-      "path": "select/01_点描の唄_(feat.井上苑子)_Mrs._GREEN_APPLE.lrc"
+      "path": "select/01_恋と吟(うた)_-_Koito_Uta_Mrs._GREEN_APPLE.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "点描の唄 (feat. 井上苑子)",
+      "title": "恋と吟(うた)",
       "artist": "Mrs. GREEN APPLE",
       "has_synced": true,
-      "path": "select/02_点描の唄_(feat._井上苑子)_Mrs._GREEN_APPLE.lrc"
+      "path": "select/02_恋と吟(うた)_Mrs._GREEN_APPLE.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "点描の唄(Feat. 井上苑子)",
+      "title": "恋と吟(うた)",
       "artist": "Mrs. GREEN APPLE",
       "has_synced": false,
-      "path": "select/pl_01_点描の唄(Feat._井上苑子)_Mrs._GREEN_APPLE.txt"
+      "path": "select/pl_01_恋と吟(うた)_Mrs._GREEN_APPLE.txt"
     }
   ]
 }
